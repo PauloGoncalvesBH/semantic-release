@@ -23,7 +23,7 @@
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/error": "^3.0.0",
     "@semantic-release/github": "^8.0.0",
-    "@semantic-release/npm": "^8.0.0",
+    "@semantic-release/npm": "^12.0.0",
     "@semantic-release/release-notes-generator": "^10.0.0",
     "aggregate-error": "^3.0.0",
     "cosmiconfig": "^7.0.0",
@@ -37,7 +37,7 @@
     "hook-std": "^2.0.0",
     "hosted-git-info": "^4.0.0",
     "lodash": "^4.17.21",
-    "marked": "^2.0.0",
+    "marked": "^4.0.10",
     "marked-terminal": "^4.1.1",
     "micromatch": "^4.0.2",
     "p-each-series": "^2.1.0",
@@ -57,9 +57,9 @@
     "dockerode": "3.3.1",
     "file-url": "3.0.0",
     "fs-extra": "9.1.0",
-    "got": "11.8.3",
+    "got": "11.8.5",
     "js-yaml": "4.1.0",
-    "mockserver-client": "5.11.2",
+    "mockserver-client": "5.15.0",
     "nock": "13.2.1",
     "nyc": "15.1.0",
     "p-retry": "4.6.1",
@@ -67,7 +67,7 @@
     "sinon": "12.0.1",
     "stream-buffers": "3.0.2",
     "tempy": "1.0.1",
-    "xo": "0.29.1"
+    "xo": "0.58.0"
   },
   "engines": {
     "node": ">=14.17"
